@@ -1,5 +1,7 @@
 # E-Commerce Sales Analytics Dashboard
 
+![Dashboard Screenshot](dashboard.png)
+
 ## Overview
 Developed an interactive Power BI dashboard to analyze 2.3M+ sales, 286K+ profit, and 5K+ orders.
 
